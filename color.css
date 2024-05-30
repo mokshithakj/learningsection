@@ -1,0 +1,55 @@
+html , body {
+margin: 0;color: darkmagenta;
+height: 100%;
+font-size: 15px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;line-height: 1.8em;
+}
+
+.sky1 { background-image: url(images1/sky3.png);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+
+
+   
+        .sky3 { background-image: url(images1/sky1.png);
+            min-height: 100%; }
+
+
+
+.sky3
+ {
+text-transform: uppercase;
+position: relative;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+font-size: large;
+}
+.skytext {
+
+position: absolute;
+top: 50%;
+width: 100%;
+color: aliceblue;
+font-size: 35px;
+letter-spacing: 5px;
+text-transform:uppercase ;
+text-align: center;
+
+}
+
+
+
+.tgp {
+background-color: lightseagreen;
+color: aliceblue;
+
+}
+
+.sky22 { padding: 50px; text-align: center
+    ;background-color: rgb(212, 180, 211);}
